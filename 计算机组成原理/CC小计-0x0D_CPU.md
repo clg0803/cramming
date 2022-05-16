@@ -172,7 +172,7 @@ CPU 周期：又称机器周期，从内存读取一个指令字的最短时间
 
 ### ADD
 
-![1652168231914](C:%5CUsers%5Cgcl%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5C1652168231914.png)
+![](https://pic22go.oss-cn-beijing.aliyuncs.com/md/1652168231914.png)
 
 1. 选定源/目标寄存器
 2. 输出 加法命令 到 ALU
